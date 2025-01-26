@@ -11,6 +11,7 @@ A list of research papers on the learning algorithms.
 - [Benchmarking ChatGPT on Algorithmic Reasoning](https://arxiv.org/pdf/2404.03441) (2024)
 - [Transformers Can Do Arithmetic with the Right Embeddings](https://arxiv.org/pdf/2405.17399) (2024)
 - [Transformers meet Neural Algorithmic Reasoners](https://arxiv.org/pdf/2406.09308) (2024)
+- [Trained Transformers Learn Linear Models In-Context](https://arxiv.org/abs/2306.09927) (2023)
 
 ### Learning algorithms from code data
 - [Competition-Level Code Generation with AlphaCode](https://arxiv.org/abs/2203.07814) (2022)
