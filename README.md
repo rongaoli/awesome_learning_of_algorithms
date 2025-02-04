@@ -12,6 +12,7 @@ A list of research papers on the learning algorithms.
 - [Transformers Can Do Arithmetic with the Right Embeddings](https://arxiv.org/pdf/2405.17399) (2024)
 - [Transformers meet Neural Algorithmic Reasoners](https://arxiv.org/pdf/2406.09308) (2024)
 - [Trained Transformers Learn Linear Models In-Context](https://arxiv.org/abs/2306.09927) (2023)
+- [Language models can learn rules（deepmind）]
 
 ### Learning algorithms from code data
 - [Competition-Level Code Generation with AlphaCode](https://arxiv.org/abs/2203.07814) (2022)
