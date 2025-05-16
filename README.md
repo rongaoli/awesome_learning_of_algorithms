@@ -13,7 +13,7 @@ A list of research papers on the learning algorithms.
 - [Transformers meet Neural Algorithmic Reasoners](https://arxiv.org/pdf/2406.09308) (2024)
 - [Trained Transformers Learn Linear Models In-Context](https://arxiv.org/abs/2306.09927) (2023)
 - [Language models can learn rules（deepmind）]
-- [Deep Double Decent](https://openai.com/index/deep-double-descent/) (2019)
+- [Deep Double Decent]([https://openai.com/index/deep-double-descent/](https://windowsontheory.org/2019/12/05/deep-double-descent/)) (2019)
 - [AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms](https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/) (2025)
 
 ### Learning algorithms from code data
